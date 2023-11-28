@@ -4,4 +4,4 @@
 d’une chanson de votre choix
 4. Créer un commit initial sur la banche master et l’envoyer sur GitHub avec git add, git
 commit puis git push
-5. Créer une branche branche1 à partir de master, avec git checkout
+5. Créer une branche branche1 à partir de master, avec git checkout -b
